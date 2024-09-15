@@ -1,6 +1,6 @@
 pandas
 seaborn
-matplotlib.pyplot
+matplotlib
 seaborn
 datetime 
 streamlit
