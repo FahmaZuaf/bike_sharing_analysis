@@ -5,7 +5,7 @@ import streamlit as st
 
 # Load data
 def load_data():
-    day_df = pd.read_csv("D:/ID CAMP 2024/Dashboard/main_day.csv")
+    day_df = pd.read_csv("https://raw.githubusercontent.com/FahmaZuaf/bike_sharing_analysis/refs/heads/main/Dashboard/main_day.csv")
 
     # Drop columns
     drop_col = ['instant', 'windspeed']
@@ -43,7 +43,7 @@ day_df = load_data()
 st.title("Dashboard Bike Sharing")
 
 # Sidebar with Logo, Social Media, and Copyright
-st.sidebar.image("D:\ID CAMP 2024\Images\logo bike share zuaf.png", use_column_width=True)  # Tambahkan logo dengan path yang sesuai
+st.sidebar.image("https://github.com/FahmaZuaf/bike_sharing_analysis/blob/main/Images/logo%20bike%20share%20zuaf.png", use_column_width=True)  # Tambahkan logo dengan path yang sesuai
 
 # Sidebar for filters
 st.sidebar.header("Filter")
