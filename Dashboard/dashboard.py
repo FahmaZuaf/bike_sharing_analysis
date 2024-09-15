@@ -43,7 +43,7 @@ day_df = load_data()
 st.title("Dashboard Bike Sharing")
 
 # Sidebar with Logo, Social Media, and Copyright
-st.sidebar.image("https://github.com/FahmaZuaf/bike_sharing_analysis/blob/main/Images/logo%20bike%20share%20zuaf.png", use_column_width=True)  # Tambahkan logo dengan path yang sesuai
+st.sidebar.image("https://raw.githubusercontent.com/FahmaZuaf/bike_sharing_analysis/refs/heads/main/Images/logo bike share zuaf.png", use_column_width=True)  # Tambahkan logo dengan path yang sesuai
 
 # Sidebar for filters
 st.sidebar.header("Filter")
