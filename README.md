@@ -10,16 +10,13 @@ For further information, like the background of this dataset, dataset characteri
 .
 ├── dashboard
 │   ├── dashboard.py
-│   └── day.csv
+│   └── main_day.csv
 ├── data
 │   ├── Readme.txt
 │   ├── day.csv
 |   └── hour.csv
-├── screenshots
-|   ├── Screenshots (91).png
-|   ├── Screenshots (92).png
-|   ├── Screenshots (93).png
-|   └── Screenshots (94).png
+├── Images
+|   └── logo bike share zuaf.png
 ├── README.md
 ├── notebook.ipynb
 └── requirements.txt
