@@ -4,4 +4,4 @@ matplotlib
 seaborn
 datetime 
 streamlit
-scipy.stats
+scipy
