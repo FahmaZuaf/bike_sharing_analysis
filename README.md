@@ -37,8 +37,6 @@ For further information, like the background of this dataset, dataset characteri
  - Make filter components on the dashboard
  - Complete the dashboard with various data visualizations
 
-**Note: Numbers 1 to 3 are in the dicoding-collection-exercise and number 4 is in dashboard.**
-
 ## 3. Getting Started
 ### `notebook.ipynb`
 1. Download this project.
